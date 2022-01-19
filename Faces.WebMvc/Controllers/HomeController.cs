@@ -59,6 +59,7 @@ namespace Faces.WebMvc.Controllers
                     model.ImageUrl
                 });
 
+            ViewData["OrderID"] = model.OrderID;
             return View("Thanks");
         }
 
