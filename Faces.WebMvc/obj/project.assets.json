@@ -208,6 +208,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "Messaging.InterfaceConstants/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Messaging.InterfaceConstants.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Messaging.InterfaceConstants.dll": {}
+        }
       }
     }
   },
@@ -672,13 +682,19 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Messaging.InterfaceConstants/1.0.0": {
+      "type": "project",
+      "path": "../Messaging.InterfaceConstants/Messaging.InterfaceConstants.csproj",
+      "msbuildProject": "../Messaging.InterfaceConstants/Messaging.InterfaceConstants.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "MassTransit >= 7.3.0",
       "MassTransit.Extensions.DependencyInjection >= 7.3.0",
-      "MassTransit.RabbitMQ >= 7.3.0"
+      "MassTransit.RabbitMQ >= 7.3.0",
+      "Messaging.InterfaceConstants >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -713,7 +729,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\martinn\\source\\repos\\Faces\\Messaging.InterfaceConstants\\Messaging.InterfaceConstants.csproj": {
+              "projectPath": "C:\\Users\\martinn\\source\\repos\\Faces\\Messaging.InterfaceConstants\\Messaging.InterfaceConstants.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

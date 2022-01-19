@@ -49,3 +49,5 @@ C:\Users\martinn\source\repos\Faces\Faces.WebMvc\obj\Debug\net5.0\Faces.WebMvc.d
 C:\Users\martinn\source\repos\Faces\Faces.WebMvc\obj\Debug\net5.0\ref\Faces.WebMvc.dll
 C:\Users\martinn\source\repos\Faces\Faces.WebMvc\obj\Debug\net5.0\Faces.WebMvc.pdb
 C:\Users\martinn\source\repos\Faces\Faces.WebMvc\obj\Debug\net5.0\Faces.WebMvc.genruntimeconfig.cache
+C:\Users\martinn\source\repos\Faces\Faces.WebMvc\bin\Debug\net5.0\Messaging.InterfaceConstants.dll
+C:\Users\martinn\source\repos\Faces\Faces.WebMvc\bin\Debug\net5.0\Messaging.InterfaceConstants.pdb
