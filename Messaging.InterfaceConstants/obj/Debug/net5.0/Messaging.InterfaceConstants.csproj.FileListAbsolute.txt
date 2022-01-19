@@ -1,0 +1,12 @@
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\bin\Debug\net5.0\Messaging.InterfaceConstants.deps.json
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\bin\Debug\net5.0\Messaging.InterfaceConstants.dll
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\bin\Debug\net5.0\ref\Messaging.InterfaceConstants.dll
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\bin\Debug\net5.0\Messaging.InterfaceConstants.pdb
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\Messaging.InterfaceConstants.csprojAssemblyReference.cache
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\Messaging.InterfaceConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\Messaging.InterfaceConstants.AssemblyInfoInputs.cache
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\Messaging.InterfaceConstants.AssemblyInfo.cs
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\Messaging.InterfaceConstants.csproj.CoreCompileInputs.cache
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\Messaging.InterfaceConstants.dll
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\ref\Messaging.InterfaceConstants.dll
+C:\Users\martinn\source\repos\Faces\Messaging.InterfaceConstants\obj\Debug\net5.0\Messaging.InterfaceConstants.pdb

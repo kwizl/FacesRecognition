@@ -11,7 +11,7 @@ namespace FaceApiTest
     {
         static async Task Main(string[] args)
         {
-            var imagePath = @"profile.jpg";
+            var imagePath = @"oscars-2017.jpg";
             var urlAddress = "http://localhost:6001/faces";
 
             ImageUtility imgUtil = new ImageUtility();

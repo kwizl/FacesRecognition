@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpI6dLFX318dCBwQHPdJuiHwxJNZ7O0qoAOJJga5OcDDnJx5VShUfSJmP0jqlRJpP5i7CQAgdcON+cmuHP7mcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martinn\\source\\repos\\Faces\\Messaging.InterfaceConstants\\Messaging.InterfaceConstants.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martinn\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
